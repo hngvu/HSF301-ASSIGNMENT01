@@ -1,0 +1,21 @@
+.table-view .column-header .label {
+    -fx-alignment: CENTER_LEFT;
+}
+
+/* Common Styles */
+.root {
+    -fx-font-family: "Arial";
+    -fx-font-size: 13px;
+}
+
+/* Login Form Styles */
+.login-form {
+    -fx-background-color: #33FFCC; /* Background for Login Form */
+}
+
+.title {
+    -fx-font-size: 18px; /* Font size for Title */
+}
+
+/* Movies Management Form Styles */
+
